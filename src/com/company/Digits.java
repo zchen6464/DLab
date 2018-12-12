@@ -1,3 +1,5 @@
+package com.company;
+
 public class Digits
 {
   public Digits(int num)
@@ -22,4 +24,3 @@ public class Digits
     return true;
   }
 }
-© 2018 GitHub, Inc.
